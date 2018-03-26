@@ -1,0 +1,2 @@
+class Chasttystudent < Student
+end
